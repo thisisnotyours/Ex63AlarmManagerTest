@@ -1,0 +1,2 @@
+rootProject.name='Ex63AlarmManagerTest'
+include ':app'
